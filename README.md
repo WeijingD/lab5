@@ -1,4 +1,3 @@
 Lab5
 
-
-test
+This is a repository for lab 5 workshop.
